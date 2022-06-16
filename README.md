@@ -1,6 +1,6 @@
 <p align="center">
   <a href="todo-rocket.netlify.app">
-    <img alt="Todo" src="./public/images/log.svg" width="320" />
+    <img alt="Todo" src="./public/images/logo.svg" width="320" />
   </a>
 </p>
 <h1 align="center">
