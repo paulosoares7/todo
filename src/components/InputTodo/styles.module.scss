@@ -1,0 +1,54 @@
+.container  {
+  width: 46rem;
+  height: 3.375rem;
+
+  margin:  calc(0px - 3.375rem/2) auto 4rem;
+  padding: 0;
+
+  form {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  input {
+    
+    width: 39.875rem;
+
+    border: 1px solid #0D0D0D;
+    border-radius: 10px;
+    padding: 1rem;
+    background: var(--gray-500);
+    color: var(--gray-100)
+
+  }
+
+  button {
+    width: 5.625rem;
+    height: 100%;
+
+    border-radius: 10px;
+    padding:0 ;
+
+    background: var(--blue-700);
+    color: var(--gray-100);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: background 0.2s;
+    
+    &:hover {
+      background: var(--blue-500);
+    }
+   
+  }
+}
+
+.buttonContent {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
