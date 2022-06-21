@@ -64,7 +64,7 @@ Todo é uma ferramenta que lhe auxiliará nas suas tarefas diárias. Contribuind
   - **✔ Marcar como completa**
   - **🗑️ Excluir tarefas**
   - **🔵 Contablizar total de tarefas**
-  - **🟣 Enumerar tarefaz concluídas do total**
+  - **🟣 Enumerar tarefas concluídas do total**
 
 ## 🎨 Layout
 
@@ -80,7 +80,7 @@ O layout da aplicação para web:
 ### 📽 Preview
 
 <p align="center">
-  <img alt="Todo" title="#TodoList" src="https://user-images.githubusercontent.com/86863196/174188914-e8436cac-2ea0-4e9c-af28-18deb00c14d0.gif" width="200px">
+  <img alt="Todo" title="#TodoList" src="https://user-images.githubusercontent.com/86863196/174188914-e8436cac-2ea0-4e9c-af28-18deb00c14d0.gif" width="600px">
 </p>
 
 ## 🚀 Como executar
